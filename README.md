@@ -1,5 +1,5 @@
-<a href="https://github.com/Yugyeong2"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=yugyeong2&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,e9defa,fbfcdb&title_color=fff&text_color=fff&icon_color=fff" alt="YUGYEONG's github stats" /></a>
-<a href="https://github.com/Yugyeong2"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugyeong2&layout=compact&hide_border=true&bg_color=30,fbfcdb,e9defa&title_color=fff&text_color=fff&icon_color=fff" /></a> 
+<a href="https://github.com/Yugyeong2"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=yugyeong2&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,e9defa,fbfcdb&title_color=bf94e4&text_color=bf94e4&icon_color=bf94e4" alt="YUGYEONG's github stats" /></a>
+<a href="https://github.com/Yugyeong2"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugyeong2&layout=compact&hide_border=true&bg_color=30,fbfcdb,e9defa&title_color=bf94e4&text_color=bf94e4&icon_color=bf94e4" /></a> 
 
 <!--
 **yugyeong2/yugyeong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
