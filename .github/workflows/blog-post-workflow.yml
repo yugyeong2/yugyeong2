@@ -15,11 +15,11 @@ concurrency:
 
 jobs:
   update-readme:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 10
     steps:
       - name: Checkout profile repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Update latest Velog posts
         uses: gautamkrishnar/blog-post-workflow@v1
