@@ -1,10 +1,10 @@
-#### About Me
+### About Me
 
-백엔드·서버 개발과 클라우드 인프라에 관심을 두고 경험을 쌓아온 개발자입니다.
-사용자의 대기 시간과 팀의 반복 작업을 줄이는 데 집중해 왔습니다.
+백엔드·서버 개발과 클라우드 인프라에 관심을 두고 경험을 쌓아온 개발자입니다. <br/>
+사용자의 대기 시간과 팀의 반복 작업을 줄이는 데 집중해 왔습니다. <br/>
 문제의 원인을 끝까지 확인하고, 해결 과정을 팀과 공유합니다.
 
-#### Tech Stack
+### Tech Stack
 
 **Backend**
 
@@ -22,7 +22,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
-#### Experience & Projects
+### Experience & Projects
 
 | 기간 | 활동 | 프로젝트 | 역할 |
 | :--- | :--- | :--- | :--- |
@@ -32,7 +32,7 @@
 | 2025.02 – 2025.11 | 캡스톤 디자인 | 독서 경험 향상 및 사용자 맞춤형 도서 추천 플랫폼 | 팀장 · 백엔드 개발 · 추천 모델 구현 |
 | 2024.06 – 2024.07 | 메비츠 하계 현장실습 | 게시판 및 RAG 챗봇 웹서비스 | 풀스택 개발 |
 
-#### Community
+### Community
 
 | 기간 | 활동 | 역할 |
 | :--- | :--- | :--- |
@@ -41,7 +41,7 @@
 | 2025.03 – 2025.09 | 구름톤 유니브(9oormthonUNIV) 충북대학교 4기 | 백엔드 파트 공동 스터디장 |
 | 2024.09 – 2024.10 | 2024 오픈소스 컨트리뷰션 아카데미 | LoxiLB 멘티 · 오픈소스 코드 기여 |
 
-#### Certifications
+### Certifications
 
 | 취득일 | 자격증 | 발급기관 |
 | :--- | :--- | :--- |
@@ -49,7 +49,7 @@
 | 2026.04 | AICE Associate | KT · 한국경제신문 |
 | 2025.06 | SQL 개발자(SQLD) | 한국데이터산업진흥원 |
 
-#### Blog
+### Blog
 
 > 개발하며 배운 것과 고민한 과정을 기록합니다.
 
@@ -65,7 +65,7 @@
 - [[특강] 검색,랭킹,추천은 어떻게 작동하는가](https://velog.io/@yugyeong2/%ED%8A%B9%EA%B0%95%EA%B2%80%EC%83%89%EB%9E%AD%ED%82%B9%EC%B6%94%EC%B2%9C%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80)
 <!-- BLOG-POST-LIST:END -->
 
-#### Stats
+### Stats
 
 <p>
   <a href="https://github.com/yugyeong2">
