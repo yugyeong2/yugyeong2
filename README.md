@@ -58,11 +58,11 @@
 **최근 작성한 글**
 
 <!-- BLOG-POST-LIST:START -->
-- [\[GitHub\] GitHub Profile을 꾸며보자 - 기술 스택 배지부터 Velog 최신 글 자동 업데이트까지](https://velog.io/@yugyeong2/GitHub-GitHub-Profile%EC%9D%84-%EA%BE%B8%EB%A9%B0%EB%B3%B4%EC%9E%90-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D-%EB%B0%B0%EC%A7%80%EB%B6%80%ED%84%B0-Velog-%EC%B5%9C%EC%8B%A0-%EA%B8%80-%EC%9E%90%EB%8F%99-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EA%B9%8C%EC%A7%80)
+- [[ChatGPT] Chat에서 Work로 전환](https://velog.io/@yugyeong2/ChatGPT-Chat%EC%97%90%EC%84%9C-Work%EB%A1%9C-%EC%A0%84%ED%99%98)
+- [[GitHub] GitHub Profile을 꾸며보자 - 기술 스택 배지부터 Velog 최신 글 자동 업데이트까지](https://velog.io/@yugyeong2/GitHub-GitHub-Profile%EC%9D%84-%EA%BE%B8%EB%A9%B0%EB%B3%B4%EC%9E%90-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D-%EB%B0%B0%EC%A7%80%EB%B6%80%ED%84%B0-Velog-%EC%B5%9C%EC%8B%A0-%EA%B8%80-%EC%9E%90%EB%8F%99-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EA%B9%8C%EC%A7%80)
 - [토이 프로젝트 구상해보기](https://velog.io/@yugyeong2/%ED%86%A0%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%83%81%ED%95%B4%EB%B3%B4%EA%B8%B0)
 - [에이블스쿨이 끝나면...](https://velog.io/@yugyeong2/%EC%97%90%EC%9D%B4%EB%B8%94%EC%8A%A4%EC%BF%A8%EC%9D%B4-%EB%81%9D%EB%82%98%EB%A9%B4)
-- [\[특강\] 검색,랭킹,추천은 어떻게 작동하는가](https://velog.io/@yugyeong2/%ED%8A%B9%EA%B0%95%EA%B2%80%EC%83%89%EB%9E%AD%ED%82%B9%EC%B6%94%EC%B2%9C%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80)
-- [다시 돌아보는 포트폴리오](https://velog.io/@yugyeong2/%EB%8B%A4%EC%8B%9C-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%8A%94-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4)
+- [[특강] 검색,랭킹,추천은 어떻게 작동하는가](https://velog.io/@yugyeong2/%ED%8A%B9%EA%B0%95%EA%B2%80%EC%83%89%EB%9E%AD%ED%82%B9%EC%B6%94%EC%B2%9C%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80)
 <!-- BLOG-POST-LIST:END -->
 
 #### Stats
